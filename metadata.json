@@ -1,0 +1,6 @@
+{
+  "name": "STARBOY — Manpreet Singh",
+  "description": "The immersive cinematic digital identity and portfolio of Manpreet Singh (STARBOY).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
